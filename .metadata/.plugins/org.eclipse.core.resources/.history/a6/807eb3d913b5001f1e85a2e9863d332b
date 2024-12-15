@@ -1,0 +1,44 @@
+package com.kh.ssuper2.member.model.vo;
+
+import java.sql.Date;
+
+public class Member {
+	
+	private int userNo;
+	private String userId;
+	private String userPwd;
+	private String userName;
+	private String email;
+	private String interest;
+	private Date enrollDate;
+	private Date modifiyDate;
+	private String status;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

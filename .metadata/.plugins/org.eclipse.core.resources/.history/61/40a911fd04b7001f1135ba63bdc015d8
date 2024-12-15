@@ -1,0 +1,5 @@
+package com.kh.ssuper2.notice.controller;
+
+public interface Test {
+
+}

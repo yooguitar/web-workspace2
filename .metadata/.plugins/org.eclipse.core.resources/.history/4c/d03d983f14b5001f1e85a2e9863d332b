@@ -1,0 +1,32 @@
+package com.kh.ssuper2.member.model.service;
+
+public class MemberService {
+
+	static {
+		registDriver();
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
