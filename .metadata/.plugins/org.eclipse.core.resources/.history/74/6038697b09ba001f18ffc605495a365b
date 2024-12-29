@@ -1,5 +1,0 @@
-package com.kh.ssuper.member.model.service;
-
-public interface MemberService {
-
-}

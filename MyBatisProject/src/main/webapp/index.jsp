@@ -39,17 +39,6 @@
 		- 기능 및 지원 : 특정 기능이나 업무수행에 도움을 주는 기능을 제공하는 프레임워크
 				ex) Log4J, logback, JUnit..
 
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	 -->
 
 	 <jsp:include page="WEB-INF/views/include/header.jsp" />
